@@ -1,0 +1,53 @@
+{"details":{
+  "image":"profile1.png",
+  "name":"lakshmi",
+  "phoneno":"+91-8937663894",
+  "email":"lakshmilucky2212@gmail.com",
+  "address":"mic college of technology,kanchikacherla"
+},
+"career":{
+  "info":"to be able to utilize the knowldge already gained in are responsible and proper manner rsulting in avalue"
+},
+"education":[{
+  "qualification":"B.tech",
+  "institute":"mic college of technology",
+  "year":"2016-2020",
+  "percentage":"70%"
+  },
+  {
+    "qualification":"inter",
+    "institute":"sree vidya junior college",
+    "year":"2014-2016",
+    "percentage":"82.5%"
+
+  },
+  {
+
+      "qualification":"ssc",
+      "institute":"st.johens girls high school",
+      "year":"2014",
+      "percentage":"7.8%"
+  }
+],
+"skills":[{
+  "title":"programming language",
+  "info":["c,c++,java,R,python"]
+},
+{
+  "title":"database",
+  "info":["oracle,sql,mysql,"]
+},
+{
+  "title":"operating system",
+  "info":["windows,linux,ubuntu,dos"]
+}
+],
+"achivements":[{
+  "title":"extracurricular activites",
+  "info":["singing,dancing"]
+  },
+{
+  "title":"prizess",
+  "info":["hackthon 2n prizess"]
+  }]
+}

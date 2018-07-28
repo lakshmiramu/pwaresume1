@@ -1,0 +1,144 @@
+.main{
+  border: 2px solid blue;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+
+}
+.left{
+  border: 2px solid green;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  text-align: center;
+  font-size: 30;
+}
+h2{
+  color: blue;
+}
+a{
+  word-wrap: break-word;
+}
+#name{
+  color: purple;
+  font-size: 30px;
+  text-alen: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 70%;
+  border: 2px solid green;
+  diaplay: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table1{
+  width: 90%;
+  overflow-x auto;
+}
+.right {
+border: 2px solid red;
+padding: 2%;
+margin: 2%;
+width: 70%;
+}
+@media only screen and (min-width: 0px) and (max-width: 480px){
+  .main{
+    border: 2px solid blue;
+    padding: 2%;
+    width: 100;
+    display: flex;
+    flex-direction: column;
+  }
+  .left{
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    text-align: center;
+    background-color: skyblue;
+    font-size: 30;
+  }
+  h2{
+    color: blue;
+  }
+  a{
+    word-wrap: break-word;
+  }
+  #name{
+    color: purple;
+    font-size: 30px;
+    text-alen: center;
+  }
+  .table1{
+    width:90;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 70%;
+    border: 5px solid green;
+    diaplay: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right {
+  border: 5px solid red;
+  padding: 2%;
+  margin: 2%;
+  background-color: skyblue;
+  width: 90%;
+  }
+
+}
+@media only screen and (min-width: 480px) and (max-width: 600px){
+  .main{
+    border: 2px solid blue;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+
+  }
+  .left{
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    text-align: center;
+    background-color: pink;
+    font-size: 30;
+  }
+
+  h2{
+    color: blue;
+  }
+  a{
+    word-wrap: break-word;
+  }
+  #name{
+    color: purple;
+    font-size: 30px;
+    text-alen: center;
+  }
+  .table1{
+    width:90;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 70%;
+    border: 5px solid green;
+    diaplay: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right {
+  border: 5px solid red;
+  padding: 2%;
+  margin: 2%;
+  background-color: pink;
+  width: 40%;
+  }
+
+
+}
